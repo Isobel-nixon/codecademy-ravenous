@@ -27,4 +27,4 @@ const search = (term, location, sortBy) => {
 
 };
 
-export default Yelp
+export default Yelp;
