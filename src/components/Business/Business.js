@@ -13,7 +13,7 @@ const business = {
     reviewCount: 90
 };
 
-class Business extends React.Components{
+class Business extends React.Component{
     render(){
         return (
             <div className="Business">
